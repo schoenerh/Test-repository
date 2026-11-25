@@ -1,4 +1,4 @@
-# Heading 1
+# Description & content
 This is a text repository for the university course with some empty files:
 
  - **- file1.txt**  
@@ -6,4 +6,3 @@ This is a text repository for the university course with some empty files:
  - ~~- file3.txt~~
     - file4.txt
     - test.txt
-  
