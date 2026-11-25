@@ -1,5 +1,5 @@
 # Description & content
-This is a text repository for the university course with some empty files:
+This is a test repository for the university course with some empty files:
 
  - **- file1.txt**  
  - *- file2.txt*  
